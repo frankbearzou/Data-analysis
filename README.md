@@ -4,7 +4,7 @@ Some libraries are used, like Numpy, Scipy, Matplotlib, Seaborn, Pandas, etc.
 
 Dates | Folder | Description
 ------|--------|--------------
-Nov.  5, 2016 | `Academy Award nominations` | Academy Award nominations (Oscars) data from <a href="https://www.aggdata.com/awards/oscar" target="_blank">AggData</a>
+Nov.  5, 2016 | `Academy Award nominations` | Academy Award nominations (Oscars) data from [AggData](https://www.aggdata.com/awards/oscar).
 Oct. 22, 2016 | `Star Wars Survey` | Survey answers from Star Wars fans which assembled by FiveThirtyEight.
 Oct. 15, 2016 | `Police Killings` | Information on each police killing in the US which assembled by FiveThirtyEight.
 Oct. 15, 2016 | `Recent Grads` | the American Community Survey on job outcomes for recent college graduates.
